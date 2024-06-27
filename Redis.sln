@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCaching", "InMemoryCaching\InMemoryCaching.csproj", "{CB682640-1B0D-45BA-8C24-3BBBD0A40146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB682640-1B0D-45BA-8C24-3BBBD0A40146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB682640-1B0D-45BA-8C24-3BBBD0A40146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB682640-1B0D-45BA-8C24-3BBBD0A40146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB682640-1B0D-45BA-8C24-3BBBD0A40146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8669EE6-2C61-4EA7-88DD-42442CE5426F}
+	EndGlobalSection
+EndGlobal
